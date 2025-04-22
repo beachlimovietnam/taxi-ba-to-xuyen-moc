@@ -1,5 +1,5 @@
 # Taxi Bà Tô Xuyên Mộc – Dịch Vụ Taxi 24/7, An Toàn Và Tiện Lợi
-Bạn đang tìm kiếm một dịch vụ taxi an toàn, tiện lợi và phục vụ 24/7 tại khu vực Bà Tô Xuyên Mộc? Hãy để BeachLimo đồng hành cùng bạn trên mọi hành trình. Với phương châm “An toàn – Chuyên nghiệp – Tiện lợi”, BeachLimo mang đến giải pháp di chuyển hoàn hảo cho người dân địa phương, khách du lịch và doanh nhân khi đến với vùng đất giàu tiềm năng du lịch và phát triển kinh tế như Bà Tô, huyện Xuyên Mộc, tỉnh Bà Rịa – Vũng Tàu.
+Bạn đang tìm kiếm một dịch vụ taxi an toàn, tiện lợi và phục vụ 24/7 tại khu vực Bà Tô Xuyên Mộc? Hãy để [BeachLimo](https://github.com/beachlimovietnam) đồng hành cùng bạn trên mọi hành trình. Với phương châm “An toàn – Chuyên nghiệp – Tiện lợi”, BeachLimo mang đến giải pháp di chuyển hoàn hảo cho người dân địa phương, khách du lịch và doanh nhân khi đến với vùng đất giàu tiềm năng du lịch và phát triển kinh tế như Bà Tô, huyện Xuyên Mộc, tỉnh Bà Rịa – Vũng Tàu.
 ## Giới Thiệu Về Dịch Vụ Taxi Bà Tô Xuyên Mộc - BeachLimo
 BeachLimo là đơn vị chuyên cung cấp các dòng xe taxi cao cấp, taxi 4 – 7 – 16 chỗ phục vụ nhu cầu di chuyển trong khu vực Bà Tô Xuyên Mộc và các vùng lân cận như Hồ Tràm, Hồ Cốc, Bình Châu, Vũng Tàu, Long Hải, TP. Hồ Chí Minh...
 
@@ -7,7 +7,7 @@ Chúng tôi không chỉ là một hãng [taxi bà tô xuyên mộc](https://hac
 
 ## Vì Sao Bạn Nên Chọn Taxi Bà Tô Xuyên Mộc Của BeachLimo?
 ### ✅ 1. Phục vụ 24/7 – Luôn sẵn sàng bất kể ngày đêm
-Bạn cần gọi xe đi gấp trong đêm? Đón người thân từ sân bay vào sáng sớm? Hay đơn giản là muốn di chuyển đến địa điểm du lịch vào cuối tuần? Đội ngũ tài xế của BeachLimo luôn trực 24/24, sẵn sàng phục vụ mọi khung giờ, kể cả lễ Tết.
+Bạn cần gọi xe đi gấp trong đêm? Đón người thân từ sân bay vào sáng sớm? Hay đơn giản là muốn di chuyển đến địa điểm du lịch vào cuối tuần? Đội ngũ tài xế của [BeachLimo Việt Nam](https://sites.google.com/view/beachlimovietnam) luôn trực 24/24, sẵn sàng phục vụ mọi khung giờ, kể cả lễ Tết.
 
 ### ✅ 2. Lái xe chuyên nghiệp, thân thiện
 Tất cả tài xế của BeachLimo đều được đào tạo bài bản, có kinh nghiệm, am hiểu địa hình khu vực Bà Tô Xuyên Mộc – Hồ Tràm. Không chỉ giỏi lái xe, họ còn giao tiếp lịch sự, thân thiện, hỗ trợ khách hàng mọi lúc, nhất là với người lớn tuổi, phụ nữ mang thai hoặc khách du lịch lần đầu đến khu vực.
@@ -25,6 +25,7 @@ Chúng tôi có mặt sau 5 – 10 phút tại trung tâm Bà Tô Xuyên Mộc v
 Chi tiết xem tại bài viết: [Taxi Bà Tô Xuyên Mộc](https://beachlimo.info/post/taxi-ba-to-xuyen-moc)
 * https://hackmd.io/@beachlimovietnam/HyOcuiG1el
 * https://github.com/beachlimovietnam/taxi-ba-to-xuyen-moc
+* https://www.behance.net/gallery/224145927/Taxi-Ba-To-Xuyen-Mc
 ### ✅ 4. Xe mới, sạch sẽ – Đủ loại theo nhu cầu
 Dàn xe taxi của BeachLimo luôn được bảo dưỡng định kỳ, nội thất sạch sẽ, có điều hòa, wifi miễn phí. Bạn có thể chọn loại xe phù hợp:
 
@@ -34,7 +35,7 @@ Taxi 7 chỗ: nhóm bạn, gia đình đông người
 
 Taxi 16 chỗ: đoàn du lịch, khách đi theo nhóm lớn
 ## Liên hệ ngay để đặt xe nhanh chóng!
-BeachLimo Thuê Taxi Giá Rẻ
+[BeachLimo Thuê Taxi Giá Rẻ](https://500px.com/p/beachlimovietnam)
 Address: A75 Bạch Đằng, Phường 2, Tân Bình, TP. Hồ Chí Minh
 Phone: 0565669339
 Website: https://beachlimo.info
